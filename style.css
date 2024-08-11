@@ -6,7 +6,7 @@ body {
     display: grid;
     padding: 10px;
     gap: 10px;  
-    grid-template-rows: repeat(5, 20%);
+    grid-template-rows: repeat(5 , 20%);
     grid-template-columns: repeat(10, 1fr);
     }
 h1 {
